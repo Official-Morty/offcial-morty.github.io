@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<HTML>
+	<head>
+		<title>MY site</tilte>
+	</head>
+	<body>
+		<h1> Welcome to my site.</h1>
+		<p>Do you eat to live or live to eat?</p>
+		
+		<br />
+		<p>Pull out a chair and enjoy</p>
+	</body>
+</html>
+
+<html>
+	<head>
+		<h2>About</h2>
+	</head>
+	<body>
+		<p> H, my name is marty I like gaming.</p>
+	</body>
+</html>
+
+<html>
+	<head>
+		<title>Contact me</title>
+		<a href="malito: mechadoof@gmail.com">send email </a>
+		
+	</head>
+</html>
