@@ -17,7 +17,7 @@
 		<h2>About</h2>
 	</head>
 	<body>
-		<p> H, my name is marty I like gaming.</p>
+		<p> Hi, my name is marty I like gaming.</p>
 	</body>
 </html>
 
