@@ -1,4 +1,10 @@
-# offcial-morty.github.io
-this is for my web app development class 
-I used boot strap for some of the css and I use apache to directly move files from net beans to my site mechadoof.com 
-mechadoof.com is made with the files from this project
+- 👋 Hi, I’m @Official-Morty
+- 👀 I’m interested in web apps
+- 🌱 I’m currently learning web app development
+- 💞️ I’m looking to collaborate on it.
+- 📫 How to reach me **************
+
+<!---
+Official-Morty/Official-Morty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
